@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc57e653-dee3-4f10-9800-7e5464a5e21c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y3dAs3111TqRiTSJ5NtdQEmxaf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\TravelXite\pytestDemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_fixureData.py">
+    <configuration name="chromeoOptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TravelXite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Frameworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frameworks/chromeoOptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="e2eTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TravelXite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Frameworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frameworks/e2eTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findelements" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TravelXite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Frameworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frameworks/findelements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jsDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TravelXite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Frameworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frameworks/jsDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TravelXite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestDemo/test_demo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uicontents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TravelXite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Frameworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frameworks/uicontents.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_fixureData.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="TravelXite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytestDemo/test_fixureData.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.chromeoOptions" />
+      <item itemvalue="Python.e2eTest" />
+      <item itemvalue="Python.findelements" />
+      <item itemvalue="Python.jsDemo" />
+      <item itemvalue="Python.test_demo2" />
+      <item itemvalue="Python.uicontents" />
+      <item itemvalue="Python tests.pytest in test_fixureData.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_demo2" />
+        <item itemvalue="Python.e2eTest" />
+        <item itemvalue="Python.chromeoOptions" />
+        <item itemvalue="Python.jsDemo" />
+        <item itemvalue="Python.uicontents" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc57e653-dee3-4f10-9800-7e5464a5e21c" name="Default Changelist" comment="" />
+      <created>1582175072172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582175072172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583136894886">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="208" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1583136894886" />
+    <state x="462" y="110" key="FileChooserDialogImpl" timestamp="1583140091006">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583140091006" />
+    <state width="972" height="128" key="GridCell.Tab.0.bottom" timestamp="1583140047726">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="128" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583140047726" />
+    <state width="972" height="128" key="GridCell.Tab.0.center" timestamp="1583140047725">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="128" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583140047725" />
+    <state width="972" height="128" key="GridCell.Tab.0.left" timestamp="1583140047725">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="128" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583140047725" />
+    <state width="972" height="128" key="GridCell.Tab.0.right" timestamp="1583140047725">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="128" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583140047725" />
+    <state width="1344" height="284" key="GridCell.Tab.1.bottom" timestamp="1582713648094">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="284" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1582713648094" />
+    <state width="1344" height="284" key="GridCell.Tab.1.center" timestamp="1582713648094">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="284" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1582713648094" />
+    <state width="1344" height="284" key="GridCell.Tab.1.left" timestamp="1582713648094">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="284" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1582713648094" />
+    <state width="1344" height="284" key="GridCell.Tab.1.right" timestamp="1582713648094">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="284" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1582713648094" />
+    <state x="283" y="0" key="SettingsEditor" timestamp="1582693255948">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="283" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1582693255948" />
+    <state x="384" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1583140700483">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="384" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583140700483" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

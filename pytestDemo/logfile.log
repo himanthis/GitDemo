@@ -1,0 +1,23 @@
+2020-03-02 11:16:47,757 :INFO :pytestDemo.test_login :Information statement
+2020-03-02 11:16:47,758 :WARNING :pytestDemo.test_login :Something is in warning mode
+2020-03-02 11:16:47,758 :ERROR :pytestDemo.test_login :A Major error has happened
+2020-03-02 11:16:47,758 :CRITICAL :pytestDemo.test_login :Critical Issue
+2020-03-02 11:19:57,388 :DEBUG :pytestDemo.test_login :A debug statement is executed
+2020-03-02 11:19:57,388 :INFO :pytestDemo.test_login :Information statement
+2020-03-02 11:19:57,389 :DEBUG :pytestDemo.test_login :A debug statement is executed
+2020-03-02 11:19:57,389 :WARNING :pytestDemo.test_login :Something is in warning mode
+2020-03-02 11:19:57,389 :ERROR :pytestDemo.test_login :A Major error has happened
+2020-03-02 11:19:57,390 :CRITICAL :pytestDemo.test_login :Critical Issue
+2020-03-02 11:20:58,711 :CRITICAL :pytestDemo.test_login :Critical Issue
+2020-03-02 13:45:55,441 :INFO :pytestDemo.baseClass :Himanthi
+2020-03-02 13:45:55,441 :INFO :pytestDemo.baseClass :Female
+2020-03-02 13:49:29,175 :INFO :test_editProfile :Himanthi
+2020-03-02 13:49:29,176 :INFO :test_editProfile :Female
+2020-03-02 13:50:28,395 :INFO :test_editProfile :Himanthi
+2020-03-02 13:50:28,395 :INFO :test_editProfile :Female
+2020-03-02 13:56:34,024 :INFO :test_editProfile :Himanthi
+2020-03-02 13:56:34,024 :INFO :test_editProfile :Female
+2020-03-02 13:56:34,031 :CRITICAL :pytestDemo.test_login :Critical Issue
+2020-03-02 13:57:59,321 :INFO :test_editProfile :Himanthi
+2020-03-02 13:57:59,321 :INFO :test_editProfile :Female
+2020-03-02 13:57:59,329 :CRITICAL :pytestDemo.test_login :Critical Issue

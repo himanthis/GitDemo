@@ -1,0 +1,19 @@
+1582534975740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileeq674C"
+1582534980075	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582534980488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582534980489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582534980489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582534980489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582534990126	Marionette	INFO	Listening on port 62532
+1582534990745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.travelxite.de/, line 3232: TypeError: $(...).autocomplete(...).autocomplete(...) is undefined
+JavaScript error: https://www.travelxite.de/Dashboard/Index, line 3232: TypeError: $(...).autocomplete(...).autocomplete(...) is undefined
+JavaScript error: https://www.travelxite.de/, line 3232: TypeError: $(...).autocomplete(...).autocomplete(...) is undefined
+1582535040499	Marionette	INFO	Stopped listening on port 62532
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5B0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
